@@ -39,6 +39,9 @@
                   <input type="text" name="name" />
                   <input type="radio" name="email" />
                   <textarea name="message"></textarea>
+                  <button class="button is-primary">
+                    Contact Us
+                  </button>
                 </form>
             </article>
           </div>
