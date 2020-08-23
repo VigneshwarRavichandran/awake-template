@@ -8,12 +8,7 @@
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
-          <h3>Fake Heading</h3>
-          <p>
-            <strong>
-              Edit this page in<code>/pages/about.vue</code>to fit your needs.
-            </strong>
-          </p>
+          <h3>Myself</h3>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
             eligendi impedit inventore ipsa laboriosam libero magnam modi odio,

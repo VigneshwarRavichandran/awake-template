@@ -21,28 +21,28 @@
   </article>
 </template>
 <script>
-import NewsLetterForm from '~/components/NewsLetterForm'
-export default {
-  name: 'NewsLetterSlideOut',
-  components: { NewsLetterForm },
-  data() {
-    return {
-      active: true
-    }
-  },
-  computed: {
-    header() {
-      return (
-        this.$siteConfig.newsletter.heading || 'Subscribe to Our Newsletter'
-      )
-    }
-  },
-  methods: {
-    toggle() {
-      this.active = !this.active
-    }
-  }
-}
+// import NewsLetterForm from '~/components/NewsLetterForm'
+// export default {
+//   name: 'NewsLetterSlideOut',
+//   components: { NewsLetterForm },
+//   data() {
+//     return {
+//       active: true
+//     }
+//   },
+//   computed: {
+//     header() {
+//       return (
+//         this.$siteConfig.newsletter.heading || 'Subscribe to Our Newsletter'
+//       )
+//     }
+//   },
+//   methods: {
+//     toggle() {
+//       this.active = !this.active
+//     }
+//   }
+// }
 </script>
 <style lang="scss" scoped>
 .subscribe-form-wrapper {

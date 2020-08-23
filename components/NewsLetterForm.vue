@@ -20,11 +20,11 @@
             <i class="fas fa-envelope"></i>
           </span>
         </p>
-        <div class="control">
+<!--         <div class="control">
           <button type="submit" class="button is-primary">
             {{ $siteConfig.newsletter.btnText || 'Subscribe' }}
           </button>
-        </div>
+        </div> -->
       </div>
     </form>
   </div>
