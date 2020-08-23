@@ -34,7 +34,12 @@
           </div>
           <div class="tile is-parent is-8">
             <article class="tile is-child box">
-              <contact-form />
+              <!-- <contact-form /> -->
+                <form name="contactus" netlify netlify-honeypot="bot-field" hidden>
+                  <input type="text" name="name" />
+                  <input type="radio" name="email" />
+                  <textarea name="message"></textarea>
+                </form>
             </article>
           </div>
         </div>
@@ -49,7 +54,7 @@
     </main-section>
   </div>
 </template>
-<script>
+<!-- <script>
 import ContactForm from '~/components/ContactForm'
 export default {
   head() {
@@ -59,4 +64,4 @@ export default {
   },
   components: { ContactForm }
 }
-</script>
+</script> -->
