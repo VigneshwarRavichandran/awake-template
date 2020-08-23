@@ -54,7 +54,7 @@
     </main-section>
   </div>
 </template>
-<!-- <script>
+<script>
 import ContactForm from '~/components/ContactForm'
 export default {
   head() {
@@ -64,4 +64,4 @@ export default {
   },
   components: { ContactForm }
 }
-</script> -->
+</script>
