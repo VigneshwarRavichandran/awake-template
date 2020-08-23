@@ -34,15 +34,7 @@
           </div>
           <div class="tile is-parent is-8">
             <article class="tile is-child box">
-              <!-- <contact-form /> -->
-                <form name="contactus" netlify netlify-honeypot="bot-field">
-                  <input type="text" name="name" />
-                  <input type="radio" name="email" />
-                  <textarea name="message"></textarea>
-                  <button class="button is-primary">
-                    Contact Us
-                  </button>
-                </form>
+              <contact-form />
             </article>
           </div>
         </div>
