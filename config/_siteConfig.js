@@ -26,10 +26,10 @@ export default {
       name: 'Categories',
       link: '/categories'
     },
-    {
-      name: 'Contact',
-      link: '/contact'
-    },
+    // {
+    //   name: 'Contact',
+    //   link: '/contact'
+    // },
     // {
     //   name: 'Github Repo',
     //   link: 'https://github.com/danielkellyio/awake-template',
