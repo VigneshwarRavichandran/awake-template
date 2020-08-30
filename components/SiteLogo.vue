@@ -1,7 +1,7 @@
 <template>
   <div class="logo-wrapper">
     <div>
-      <b><h1 style="padding-top: 13px; align: center;">Home</h1></b>
+      <h1 style="padding-top:13px; padding-left:12px; font-weight: bold;">Home</h1>
     </div>
   </div>
 </template>
