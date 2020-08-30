@@ -41,7 +41,7 @@ Disqus supports a number of different platforms but also works great in static s
 
 ## Step 7
 
-You can ignore everything on this page, as the Awake template has already configured it for you. All you have to do is find your "Site Short Name" (it's the first part of the url) and add it to `config/_siteConfig.js`.
+ (it's the first part of the url) and add it to `config/_siteConfig.js`.
 
 Take it from here:
 
