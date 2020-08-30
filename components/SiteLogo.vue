@@ -1,6 +1,7 @@
 <template>
   <div class="logo-wrapper">
     <div>
+      <br>
       <h4>Home</h4>
     </div>
   </div>
